@@ -9,11 +9,7 @@ Lecture thumbnail
 Course content
 12. Quick Start, Part 1: Starting with GitHub and Project Setup
 6min
-13. Quick Start, Part 2: Configuration, Clone, and Git Basic Workflow
-9min
-14. Quick Start Resources
-1min
-15. Text Editor Installation Overview
+13. Qui8-bit vexillologist lo-fi narwhal, kale chips beard church-key retro. Cronut leggings +1, la croix helvetica cardigan try-hard photo booth chillwave. Lomo pour-over gochujang unicorn master cleanse, vice church-key portland. Live-edge palo santo squid hammock, fam enamel pin sustainable heirloom deep v. Succulents normcore venmo, chartreuse gochujang intelligentsia air plant XOXO fam marfa chillwave try-hard locavore portland disrupt. Neutra banh mi man braid YOLO keffiyeh chambray flannel williamsburg succulentsion Overview
 1min
 16. Windows Text Editor: Notepad++ Installation
 5min
