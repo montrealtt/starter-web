@@ -1,0 +1,153 @@
+Home
+Git Complete: The definitive, step-by-step guide to Git
+Leave a rating
+Lecture thumbnail
+
+
+
+3:39 / 11:27
+Course content
+12. Quick Start, Part 1: Starting with GitHub and Project Setup
+6min
+13. Quick Start, Part 2: Configuration, Clone, and Git Basic Workflow
+9min
+14. Quick Start Resources
+1min
+15. Text Editor Installation Overview
+1min
+16. Windows Text Editor: Notepad++ Installation
+5min
+17. Configure Notepad++ with Git (Windows Only)
+5min
+18. Mac Text Editor: TextMate 2 Installation
+3min
+19. Configure Text Mate 2 with Git (Mac Only)
+3min
+20. Text Editor Resources
+1min
+21. Basic Commands Overview
+2min
+22. Starting with a Fresh Project (git init)
+8min
+23. Adding Git to an Existing Project (git init)
+7min
+24. Starting on GitHub by Joining an Existing Project (git clone)
+6min
+25. Basic Git Workflow (add, commit, pull & push)
+11min
+26. Tracked Files
+5min
+27. Editing Files
+4min
+28. Recursive Add
+4min
+29. Backing Out Changes
+4min
+30. Renaming and Moving Files
+11min
+31. Deleting Files
+10min
+32. History
+6min
+33. Git Alias
+4min
+34. Ignoring Unwanted Files and Folders
+7min
+35. Cleanup and Back to Origin (GitHub)
+3min
+36. Git Basics Resources
+7min
+Go from zero to hero with Git source control step-by-step with easy to understand examples. Become the next Git expert!
+Rating: 4.5 out of 1
+4.5
+20,729 ratings
+96,555
+Students
+6 hours
+Total
+Last updated September 2018
+English
+English, French [Auto]
+, 
+What you'll learn
+Learn the key concepts of the Git source control system
+Step through the entire Git workflow
+Compare the different states in Git and compare between branches and commits
+Manage files with Git (move, rename, delete) and update files managed outside Git
+Create and fork repositories on GitHub and push changes back after working after working on them locally
+Create branches and resolve merge conflicts like a pro
+Description
+Git Complete
+
+This course is designed to be a comprehensive approach to Git, which means no prior knowledge or experience is required but students will emerge at the end with a very solid understanding and hands-on experience with Git and related source control concepts.
+
+Recent Course Updates
+
+Added Updates and Errata section
+Added Tagging section
+Course Outline
+
+Course Introduction and Overview provides an introduction to this course and the Git source control system and sets the stage for the rest of the course.
+
+After the introduction, the first thing we do is Git Installation for both Windows and Mac.
+
+Quick Start a very quick (15 minutes), hands-on introduction to Git. We start off by signing up for GitHub, creating a repository there, the makiing a local copy (clone), local changes (add/commit) and then update GitHub with our changes (push).
+
+In Basic Commands, we walk through all the foundational commands needed to start a new project managed by Git (or enable Git for an existing project) all the way through making commits, including common file operations like moving and deleting files. We also cover how to exclude the wrong files from accidentally being committed and how to review your repository's history.
+
+With a strong foundation in place, we explore ways to make Comparisons in Git, including all the different local states, between commits, and between local and remote repositories.
+
+We give great attending to Branching and Merging in Git. We start off with the simple "happy path" and learn about "Fast-Forward" merges and how to control them. The we walk through common "automatic" merges. Finally, we cause trouble on purpose so we can step through resolving conflicting merges with our visual merge tool.
+
+With a strong foundation in branching and merging, we will then cover a more complex topic, Rebasing. In that section, we cover several rebasing examples, including how to resolve a rebase conflict.
+
+In the Stashing section, we save our work-in-progress while we attend to more pressing issues, then pick up where we left off after that.
+
+NEW: In the Tagging section, we mark important milestones or releases within our project. We also use those tags later for comparing differences between important milestones. We also look at how to use tags within GitHub.
+
+All tools have installation and configuration sections to ensure no one is left behind.
+
+Course Features
+
+Presentations provide audio/video training of conceptual ideas. Since few like slide-ware presentations, slide-presentations are kept to a minimum.
+
+Screencasts provide a video of the instructor's computer system with any actions, commands, or screens displayed and narrated. There is nearly 4 hours of screencast based video training in order to step through each command or action in sufficient detail.
+
+Several attachments and document lectures throughout the course provide supplemental information, illustrations, or other reference material.
+
+Moving Forward
+
+This course will expand periodically to include more topics, supporting materials and bonus content! Some content may be in direct response to student feedback or discussions -- so get engaged with the course discussions feature!
+
+Who this course is for:
+Anyone interested in using source control and specifically Git
+Software engineers, developers, programmers new to Git
+IT Managers or technical leads considering Git for version control on their teams
+Freelancers or other creative professionals
+Instructor
+Jason Taylor
+Lead Software Engineer, Dev Trainer (19 courses,50k reviews)
+With nearly 20 years of programming and software development experience, I started out teaching myself programming while in High School. I put myself through college working for a local Internet Service Provider as a programmer. Before finishing college, I developed and sold an award winning website to a Dot-Com start-up. After college, I have worked at several companies ranging from start-ups to large enterprises focusing on Java and client-side technologies (HTML/CSS/JavaScript). Throughout my career, I have opportunity to learn many software development best practices and exposure to several version control systems. 
+
+Featured review
+Tomasz K.
+28 courses
+5 reviews
+Rating: 5.0 out of 5
+11 months ago
+I like the pace and clarity. I hope some obsolete comments will be updated in new footage That would be convenient if newbies like me did not have to search why a command did not work on the internet. Further no better teaching on Udemy so far. Just finished and want to say massive thanks - Jason I hope you will make more courses
+Was this review helpful?
+
+Requirements
+Basic computer skills
+Ability to install software on your computer
+Admin rights may be required for software installation
+Get the app
+About us
+Help and Support
+Terms
+Privacy policy
+Sitemap
+Accessibility statement
+Udemy Business
+© 2021 Udemy, Inc.
